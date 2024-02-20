@@ -1,0 +1,15 @@
+../Core/Src/main.c:83:1:__io_putchar	16	static
+../Core/Src/main.c:94:10:readADC	16	static
+../Core/Src/main.c:107:7:calibVREFMacro	24	static
+../Core/Src/main.c:114:7:calibTEMPMacro	24	static
+../Core/Src/main.c:121:6:configVREFINT	32	static
+../Core/Src/main.c:136:6:configTEMPSENSOR	32	static
+../Core/Src/main.c:157:5:main	168	static
+../Core/Src/main.c:345:6:SystemClock_Config	96	static
+../Core/Src/main.c:396:13:MX_ADC1_Init	32	static
+../Core/Src/main.c:454:13:MX_UART4_Init	8	static
+../Core/Src/main.c:502:13:MX_UART5_Init	8	static
+../Core/Src/main.c:550:13:MX_USART1_UART_Init	8	static
+../Core/Src/main.c:598:13:MX_USART2_UART_Init	8	static
+../Core/Src/main.c:646:13:MX_GPIO_Init	48	static
+../Core/Src/main.c:682:6:Error_Handler	4	static,ignoring_inline_asm
